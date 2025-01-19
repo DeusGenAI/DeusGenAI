@@ -1,0 +1,30 @@
+.DS_Store
+node_modules
+build
+/build
+
+/tests/e2e/reports/
+selenium-debug.log
+
+# local env files
+.env.localÏ
+.env.*.local
+
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+/dist.zip
+/dist/
+/Deus/
+/Deus.zip
